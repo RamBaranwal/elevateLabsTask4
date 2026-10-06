@@ -15,3 +15,10 @@ This project demonstrates a Git-based DevOps workflow.
 7. Merge feature branches into dev.
 8. Merge dev into main.
 9. Create a Git tag for the final version.
+
+## Git Best Practices
+
+- Write meaningful commit messages.
+- Use feature branches for development.
+- Review changes using Pull Requests.
+- Keep the main branch stable.

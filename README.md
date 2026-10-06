@@ -2,24 +2,21 @@
 
 ## Task 4: Version-Controlled DevOps Project
 
-This project demonstrates Git and GitHub version control best practices.
+This project demonstrates a version-controlled DevOps workflow using Git and GitHub.
 
-## Git Workflow
+The objective of this task was to manage a project using Git best practices, including branching, commits, Pull Requests, tags, documentation, and `.gitignore`.
 
-The project uses:
-
-- main branch
-- dev branch
-- feature branches
-- Pull Requests
-- Git tags
-- .gitignore
-
-## Objective
-
-Manage a DevOps project using Git best practices.
-
-## Tools
+## Tools Used
 
 - Git
 - GitHub
+- Visual Studio Code
+
+## Project Structure
+
+```text
+git_version/
+│
+├── .gitignore
+├── README.md
+└── project.md

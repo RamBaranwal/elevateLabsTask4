@@ -20,3 +20,15 @@ git_version/
 ├── .gitignore
 ├── README.md
 └── project.md
+```
+![alt text](<Screenshot 2026-10-07 005045.png>)
+![alt text](<Screenshot 2026-10-07 005104.png>)
+![alt text](<Screenshot 2026-10-07 005317.png>)
+![alt text](<Screenshot 2026-10-07 005452.png>)
+![alt text](<Screenshot 2026-10-07 005621.png>)
+![alt text](<Screenshot 2026-10-07 005746.png>)
+![alt text](<Screenshot 2026-10-07 005931.png>)
+![alt text](<Screenshot 2026-10-07 005951.png>)
+![alt text](<Screenshot 2026-10-07 010017.png>)
+![alt text](<Screenshot 2026-10-07 010129.png>)
+![alt text](<Screenshot 2026-10-07 010412.png>)
